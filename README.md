@@ -1,5 +1,6 @@
 # Expand-all-reddit-comments
 A script that automatically dispatches reddit comments (hidden replies + controversial comments).
+Note: Works perfectly on new.reddit.com, not so much on (old.reddit.com OR reddit.com)
 
 ![reeter](https://github.com/user-attachments/assets/189f2c49-5299-4a55-8e62-7f6f9236e31d)
 
