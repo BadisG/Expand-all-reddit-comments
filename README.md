@@ -10,4 +10,4 @@ A script that automatically dispatches reddit comments (hidden replies + controv
 
 
 ## 2) Install the script there
-[Click on this link](https://github.com/BadisG/Youtube-comment-like-threshold/raw/main/main.user.js)
+[Click on this link](https://github.com/BadisG/Expend-all-reddit-comments/raw/main/main.user.js)
